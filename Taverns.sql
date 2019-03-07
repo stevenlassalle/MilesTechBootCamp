@@ -1,3 +1,9 @@
+/**************************
+* Steven Lassalle         *
+* 03/07/2019		  *
+* MilesTech Boot Camp HW1 *
+***************************/
+
 DROP TABLE IF EXISTS Taverns;
 CREATE TABLE Taverns(
 	id int PRIMARY KEY,
